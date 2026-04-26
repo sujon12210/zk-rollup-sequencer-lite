@@ -1,0 +1,9 @@
+{
+  "name": "zk-rollup-sequencer-lite",
+  "version": "1.0.0",
+  "description": "Minimal ZK-Rollup sequencer logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0"
+  }
+}
